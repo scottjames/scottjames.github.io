@@ -5,7 +5,7 @@ It exists as a repository of my works and method to share with other makers.
 
 ### 2024
 
- * [Tuya water leak detector](2024-tuya-water-leak-detector/)
+ * [WiFi Tuya Water Leak Sensor 898FT](2024-tuya-water-leak-detector/)
 
 ### 2020
  * [HP 721A Power Supply Repair](https://scottjames.github.io/2020-hp-721a-power-supply)
