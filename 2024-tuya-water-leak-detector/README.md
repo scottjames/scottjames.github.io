@@ -15,6 +15,6 @@ The footprint is compatible with ESP-12 module, but it requires some extra pull-
 
 ## Other Information
 
-https://www.elektroda.com/rtvforum/topic4063031.html#21293339
-
+ * https://www.elektroda.com/rtvforum/topic4063031.html#21293339
+ * [Tuya CB3S Module](CB3S-tuya-wifi-module-ESP12-compatible.pdf)
 
