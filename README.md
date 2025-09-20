@@ -1,3 +1,9 @@
+# Coffee Roasting
+
+Links and images of coffee roasting with Artisan Scope software on Skywalker roaster using TC4 interface.
+
+ * [Coffee Roasting](https://scottjames.github.io/coffee-roasting/)
+
 # Projects
 
 This is a collection of my "maker" projects and experiements.
